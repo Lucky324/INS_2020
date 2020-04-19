@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 batch_size = 64
-num_epochs = 1
-kernel_size =3
+num_epochs = 8
+kernel_size =5
 pool_size = 2
 conv_depth_1 = 32
 conv_depth_2 = 64
